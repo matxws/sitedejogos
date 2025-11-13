@@ -196,6 +196,9 @@ body.claro .card {
   color: #222;
 }
 
+body.claro .card .preco{
+  color: #084d14;
+}
 
 
 body.claro #propaganda{
